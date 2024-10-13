@@ -1,5 +1,9 @@
 # 🔐 **DES 加密与解密程序**
 
+## 🌐 Language Navigation
+- [中文版本 (Chinese Version)](README.md)
+- [English Version](README_EN.md)
+
 > **华中师范信管学院数据隐私与信息安全课程DES算法实验**  
 > 本项目仅为本人尝试掌握经典 DES 加密算法，本人不为本项目用于其他用途承担任何风险，本人只用作交流学习。欢迎各位数据安全爱好者或者加密技术学习者的砸砖。
 
